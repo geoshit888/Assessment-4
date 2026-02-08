@@ -1,3 +1,3 @@
 # Assessment-4
 
-# Getting Started
+Getting Started
