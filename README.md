@@ -5,6 +5,14 @@ The task for GEOL0069: AI for Earth Observation 25/26 (Week 4) is to classify Se
 
 ### Prerequisites
 To run the notebook, you must install the following Python software:
-`pip install rasterio`
-`pip install netCDF4`
-
+```
+pip install rasterio
+```
+```
+pip install netCDF4
+```
+Mounting Google Drive on Google Colab
+```
+from google.colab import drive
+drive.mount('/content/drive')
+```
