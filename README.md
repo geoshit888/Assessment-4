@@ -21,9 +21,9 @@ drive.mount('/content/drive')
 Google Colab is a cloud-based service that allows you to write and execute Python code through your browser. It is particularly well-suited for AI and machine learning tasks because:
 
 * Zero Configuration: No local environment setup is required.
-* Free GPU/TPU Access: Provides high-performance hardware accelerators for intensive computations.
+* Free GPU Access: Provides high-performance hardware accelerators for intensive computations.
 * Collaboration: Allows for easy sharing and real-time editing, similar to Google Docs.
-* Pre-installed Libraries: Most popular data science libraries (like scikit-learn and matplotlib) come pre-loaded.
+* Pre-installed Libraries: Most popular data science libraries (like matplotlib) come pre-loaded.
 
 ## Context
 The Sentinel-3 mission is part of the European Copernicus program, run by the European Space Agency (ESA). It uses two satellites to monitor the Earth’s oceans and ice from around 800 km above. This mission is essential for tracking how Arctic sea ice changes over time, which helps scientists understand global warming. 
