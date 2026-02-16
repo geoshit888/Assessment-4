@@ -47,4 +47,8 @@ To see how the code is implemented, please refer to the notebook: [Week4_Unit_2_
 
 Within the notebook, explanations of the workflow and results are provided in bold text to help readers understand how the classification process works step by step.
 
+## Contact
+Ray Wong - ucfbjwe@ucl.ac.uk
 
+## Acknowledgments
+This project was completed as part of UCL GEOL0069 coursework assignment on unsupervised learning methods. It aims to demonstrate the application of clustering techniques for land cover classification, along with explanations of the methodology and interpretation.
