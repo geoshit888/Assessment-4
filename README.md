@@ -32,4 +32,4 @@ The satellite uses a tool called a Radar Altimeter (SRAL). This is an active sen
 
 Before we can classify the data, we must correct it for things like the satellite’s exact position. Once the data is cleaned and aligned, we use Gaussian Mixture Models (GMM) to group the waveforms into sea ice and leads. We then compare our results to ESA’s ground truth to make sure our AI is accurate.
 
-For more information about the mission please check: https://sentinels.copernicus.eu/copernicus/sentinel-3
+Please check for more information about the mission: https://sentinels.copernicus.eu/copernicus/sentinel-3
